@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Anatoli Vinokurov! <img src="./readme_assets/hello.gif" width="3%">
 
-## _Israel, Tel-Aviv_
+## _Israel, Rishon LeZion_
 
 ## 🚀 About Me
 I'm a full stack developer...
